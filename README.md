@@ -33,7 +33,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-trello.git
+git clone https://github.com/NurjahonErgashevMe/next-13-trello
 ```
 
 ### Install packages
